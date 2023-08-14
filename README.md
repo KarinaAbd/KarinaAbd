@@ -1,37 +1,31 @@
-### Hi there 👋
+### Hi there, I'm Karina!
 
-<!--
-**KarinaAbd/KarinaAbd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am currently attending programming [School 21](https://21-school.ru/) and taking online courses [Hexlet](https://ru.hexlet.io/) to become a backend developer.
 
-Here are some ideas to get you started:
+My languages:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![python](https://img.shields.io/badge/python--junior-label?style=flat-square&logo=python&logoColor=%23FFFFFF&labelColor=%233776AB&color=%233776AB)
+![C](https://img.shields.io/badge/c--beginner-label?style=flat-square&logo=c&logoColor=%23FFFFFF&labelColor=%23A8B9CC&color=%23A8B9CC)
+![english](https://img.shields.io/badge/english--B2-label?style=flat-square&labelColor=%2325A162&color=%2325A162)
+![german](https://img.shields.io/badge/german--B2-label?style=flat-square&labelColor=%2325A162&color=%2325A162)
+![russian](https://img.shields.io/badge/russian--native-label?style=flat-square&labelColor=%2325A162&color=%2325A162)
 
-![languages](https://img.shields.io/static/v1?label=&message=languages:&color=111&style=flat-square)
-![python](https://img.shields.io/static/v1?logo=python&label=&message=python&color=36465D&logoColor=AAA&style=flat-square&link=)
-&nbsp;&nbsp;&nbsp;
-![tools](https://img.shields.io/static/v1?label=&message=tools:&color=111&style=flat-square)
-![git](https://img.shields.io/static/v1?logo=git&label=&message=git&color=36465D&logoColor=AAA&style=flat-square)
-&nbsp;&nbsp;&nbsp;
-![worksat](https://img.shields.io/static/v1?label=&message=@:&color=111&style=flat-square)
+Technologies I use in my projects:
 
+![django](https://img.shields.io/badge/django-label?style=flat-square&logo=django&logoColor=%23FFFFFF&labelColor=%23092E20&color=%23092E20)
+![flask](https://img.shields.io/badge/flask-label?style=flat-square&logo=flask&logoColor=%23FFFFFF&labelColor=%23000000&color=%23000000)
+![pytest](https://img.shields.io/badge/pytest-label?style=flat-square&logo=pytest&logoColor=%23FFFFFF&labelColor=%230A9EDC&color=%230A9EDC)
+![PostgreSQL](https://img.shields.io/badge/postgresql-label?style=flat-square&logo=postgreSQL&logoColor=%23FFFFFF&labelColor=%234169E1&color=%234169E1)
+![CI/CD](https://img.shields.io/badge/CI%2FCD-label?style=flat-square&logo=GitHub%20Actions&logoColor=%23FFFFFF&labelColor=%232088FF&color=%232088FF)
+![linux](https://img.shields.io/badge/linux-label?style=flat-square&logo=Linux&logoColor=%23FFFFFF&labelColor=%23F46D01&color=%23F46D01)
+![git](https://img.shields.io/badge/git-label?style=flat-square&logo=git&logoColor=%23FFFFFF&labelColor=%23F05032&color=%23F05032)
 
-<details>
-<summary>⚡️ More about my coding life</summary>
-<br />
+<hr>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zheeeng&layout=compact&hide=css,html)
+**My favourite projects from the latest:**
 
-![Zheeeng's github stats](https://github-readme-stats.vercel.app/api?username=zheeeng&count_private=true&show_icons=true&theme=onedark)
+- [Task Manager](https://github.com/KarinaAbd/python-project-52) which I developed on Django, using PostrgreSQL and delpoyed it on PaaS. It's a great feeling to use an app that you wrote yourself!
+- [Generate Diff](https://github.com/KarinaAbd/python-project-50) finds the differences between two data structures. To solve the problem I had to become familiar with recursion, which threw up a problem that required me to understand recursion, which ... you get it :)
+- My own implementations of the utilities: cat and grep. Unfortunately, according to school rules I can't show the code here, but believe me it's beautiful. And even dynamic memory is not trying to leak anymore. 
 
-</details>
-
-img https://github.com/jayrajroshan
+**How to reach me:** https://t.me/abdkarina | abdullaeva.karina.r@gmail.com
