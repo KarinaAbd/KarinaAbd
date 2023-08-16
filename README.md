@@ -24,7 +24,7 @@ Technologies I use in my projects:
 
 **My favourite projects from the latest:**
 
-- [Task Manager](https://github.com/KarinaAbd/python-project-52) which I developed on Django, using PostrgreSQL and delpoyed it on PaaS. It's a great feeling to use an app that you wrote yourself!
+- [Task Manager](https://github.com/KarinaAbd/python-project-52) which I developed on Django, using PostrgreSQL and deployed it on PaaS. It's a great feeling to use an app that you wrote yourself!
 - [Generate Diff](https://github.com/KarinaAbd/python-project-50) finds the differences between two data structures. To solve the problem I had to become familiar with recursion, which threw up a problem that required me to understand recursion, which ... you get it :)
 - My own implementations of the utilities: cat and grep. Unfortunately, according to school rules I can't show the code here, but believe me it's beautiful. And even dynamic memory is not trying to leak anymore. 
 
